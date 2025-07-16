@@ -1,2 +1,1 @@
-console.log('some login features')
-Here are some text to cause a conflict Version 2
+console.log('some login features')Here is my final text to resolve the conflict
